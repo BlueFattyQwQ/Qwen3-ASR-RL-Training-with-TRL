@@ -1,4 +1,4 @@
-# Qwen3-ASR RL Training with TRL (GRPO)
+# Qwen3-ASR RL Training with TRL (GSPO)
 
 This repository provides a reinforcement learning (RL) training script for **Qwen3-ASR** using the Hugging Face **TRL** library.
 
