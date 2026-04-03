@@ -1,4 +1,4 @@
-# 使用 TRL (GRPO) 对 Qwen3-ASR 进行强化学习训练
+# 使用 TRL (GSPO) 对 Qwen3-ASR 进行强化学习训练
 
 本仓库提供一个基于 Hugging Face **TRL** 的 **Qwen3-ASR 强化学习训练脚本**。
 
